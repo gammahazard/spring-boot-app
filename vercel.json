@@ -1,6 +1,6 @@
 {
   "version": 2,
   "builds": [
-    { "src": "*.jar", "use": "@vercel/java" }
+    { "src": "*.jar", "use": "vercel/java" }
   ]
 }
